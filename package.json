@@ -1,7 +1,10 @@
 {
-  "name": "hardhat-project",
+  "name": "chainlink-examples",
   "devDependencies": {
+    "@chainlink/contracts": "^0.5.1",
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
-    "hardhat": "^2.12.3"
+    "hardhat": "^2.12.3",
+    "prettier": "^2.8.1",
+    "prettier-plugin-solidity": "^1.0.0"
   }
 }
