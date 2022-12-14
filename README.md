@@ -1,4 +1,4 @@
-# Chainlink examples
+# Chainlink Automate Contracts Examples
 
 ## Upkeeps
 

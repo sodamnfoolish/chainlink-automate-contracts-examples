@@ -1,5 +1,5 @@
 {
-  "name": "chainlink-examples",
+  "name": "chainlink-automate-contracts-examples",
   "devDependencies": {
     "@chainlink/contracts": "^0.5.1",
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
